@@ -12,12 +12,12 @@
 
 ###
    
-<p align="center">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="golang logo"/>
   <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="40" alt="gin logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
-</p>
+</div>
 
 ###
 
